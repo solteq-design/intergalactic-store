@@ -25,6 +25,8 @@ To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
 ## Make pull request and create branch
 ```
+> git checkout master
+> git pull upstream master && git push origin master
 > git checkout -b <hotfix/name-of-your-branch>
 > git push -u origin <hotfix/name-of-your-branch>
 ```
