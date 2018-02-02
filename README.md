@@ -23,6 +23,11 @@ Start the development server (changes will now update live in browser)
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
+## Make pull request and create branch
+
+git checkout -b <hotfix/name-of-your-branch>
+git push -u origin <hotfix/name-of-your-branch>
+
 ## Links
 
 - to add links
